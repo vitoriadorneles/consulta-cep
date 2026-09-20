@@ -1,5 +1,4 @@
 <Solution>
-  <Folder Name="/BackEnd/" />
   <Project Path="ConsultaCep.API/ConsultaCep.Api.csproj" Id="44cb45d6-4534-45e1-bb9f-1933c25f2112" />
   <Project Path="ConsultaCep.Application/ConsultaCep.Application.csproj" />
   <Project Path="ConsultaCep.Domain/ConsultaCep.Domain.csproj" />
